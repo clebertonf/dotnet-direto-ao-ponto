@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {}
+    "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\dotnet-direto-ao-ponto\\DevFreela.API\\DevFreela.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj": {
+    "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\dotnet-direto-ao-ponto\\DevFreela.API\\DevFreela.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+        "projectUniqueName": "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\dotnet-direto-ao-ponto\\DevFreela.API\\DevFreela.API.csproj",
         "projectName": "DevFreela.API",
-        "projectPath": "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+        "projectPath": "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\dotnet-direto-ao-ponto\\DevFreela.API\\DevFreela.API.csproj",
         "packagesPath": "C:\\Users\\cleberton.carvalho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\DevFreela.API\\obj\\",
+        "outputPath": "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\dotnet-direto-ao-ponto\\DevFreela.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cleberton.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",

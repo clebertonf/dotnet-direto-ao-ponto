@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DevFreela.API
-build_property.ProjectDir = C:\Users\cleberton.carvalho\Desktop\Formação aspnetCore\DevFreela\DevFreela.API\
+build_property.ProjectDir = C:\Users\cleberton.carvalho\Desktop\Formação aspnetCore\DevFreela\dotnet-direto-ao-ponto\DevFreela.API\

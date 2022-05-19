@@ -1,5 +1,6 @@
 ﻿using DevFreela.API.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Options;
 using System.Collections.Generic;
 
 namespace DevFreela.API.Controllers
@@ -7,10 +8,16 @@ namespace DevFreela.API.Controllers
     [Route("api/projects")]
     public class ProjectsController : ControllerBase
     {
+        public readonly OpeningTimeOption _option;
+        public ProjectsController(IOptions<OpeningTimeOption> option)
+        {
+            _option = option.Value;
+        }
+
         [HttpGet]
         public IActionResult Get(string query)
         {
-            return Ok();
+            return Ok(_option.StartAt.ToString());
         }
 
         [HttpGet("{id}")]

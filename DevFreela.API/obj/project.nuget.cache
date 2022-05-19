@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lx0tFuxUMrC4PKz8GoLr+oz9J41Tw2tQOg7toEiQls6gcq4nNXzZYdT40jwCE/y5KQt63Po89QqFwWFLMh91NA==",
+  "dgSpecHash": "JPdPANkJrtTnroLbVdPqd/tSkEZ2l//jecbH8DEEDjQ421cs2+GnG4uX2gXQ1Wfb528/yP5PfJcRLJfx+lzjiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
+  "projectFilePath": "C:\\Users\\cleberton.carvalho\\Desktop\\Formação aspnetCore\\DevFreela\\dotnet-direto-ao-ponto\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cleberton.carvalho\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\cleberton.carvalho\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
