@@ -9,8 +9,9 @@ namespace DevFreela.API.Controllers
     public class ProjectsController : ControllerBase
     {
         public readonly OpeningTimeOption _option;
-        public ProjectsController(IOptions<OpeningTimeOption> option)
+        public ProjectsController(IOptions<OpeningTimeOption> option, ExemplaClassLifeCicle exemplaClassLifeCicle)
         {
+            exemplaClassLifeCicle.Name = "Atualizado na Projects controller";
             _option = option.Value;
         }
 

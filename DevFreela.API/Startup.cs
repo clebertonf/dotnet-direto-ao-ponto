@@ -29,6 +29,8 @@ namespace DevFreela.API
         {
             services.Configure<OpeningTimeOption>(Configuration.GetSection("OpeningTime"));
 
+            services.AddSingleton<ExemplaClassLifeCicle>( e => new ExemplaClassLifeCicle { Name = "Initial stage"});
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
