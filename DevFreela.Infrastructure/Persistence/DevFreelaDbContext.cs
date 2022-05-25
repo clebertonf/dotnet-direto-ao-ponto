@@ -29,9 +29,9 @@ namespace DevFreela.Infrastructure.Persistence.Repositories
             };
         }
 
-        public List<Project> Projects { get; private set; }
-        public List<User> Users { get; private set; }
-        public List<Skill> Skills { get; private set; }
+        public List<Project> Projects { get; set; }
+        public List<User> Users { get; set; }
+        public List<Skill> Skills { get; set; }
 
     }
 }
